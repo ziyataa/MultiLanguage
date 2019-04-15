@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MultiLanguage</string>
+    <string name="hello_world">Bonjour le monde!</string>
+    <string name="change_language_settings">Modifier les paramètres de langue</string>
+</resources>
